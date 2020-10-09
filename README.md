@@ -1,2 +1,1 @@
-# NLP_Practicals
-semester 7 stuff
+# This is a work in progress assignment. It is not done. 
